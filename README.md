@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Marta Piscitelli, a physics student at the [University of Trento, Italy](https://www.unitn.it/).
 
 <!--
 **martapisci/martapisci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
