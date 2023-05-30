@@ -1,7 +1,9 @@
 ### Hi there 👋
-I'm Marta Piscitelli, a physics student at the [University of Trento, Italy](https://www.unitn.it/).\
-🔭 I’m currently working on my bachelor thesis in Astrophysics\
-I spent the first semester of the academoic year 2022-2023 at the [University of Oslo](https://www.uio.no/english/) where I took the Computational physics (FYS 3150) course.
+I'm Marta Piscitelli, a physics student at the [University of Trento, Italy](https://www.unitn.it/).
+* 🔭 I’m currently working on my bachelor thesis in Astrophysics\
+* I spent the first semester of the academoic year 2022-2023 at the [University of Oslo](https://www.uio.no/english/) where I took the Computational physics (FYS 3150) course.
+
+
 
 
 <!--
