@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Marta Piscitelli, a physics student at the [University of Trento, Italy](https://www.unitn.it/).
 * 🔭 I’m currently working on my bachelor thesis in Astrophysics, in my repos you might find the project I'm currently working on: the observation and spectral fitting of a relativistic Wind in outflow from the AGN IRAS 13224-3809
-* I spent the first semester of the academic year 2022-2023 at the [University of Oslo](https://www.uio.no/english/) where I took the Computational physics (FYS 3150) course.
+* I spent the first semester of the academic year 2022-2023 at the [University of Oslo](https://www.uio.no/english/) where I took the great Computational physics (FYS 3150) course.
 
 
 
